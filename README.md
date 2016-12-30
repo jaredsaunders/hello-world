@@ -1,5 +1,4 @@
 # hello-world
-just testing this out
 
 Hi Humans!
 
